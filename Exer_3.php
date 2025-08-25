@@ -23,4 +23,5 @@
         echo "O salário final é: R$" . $resultado;
     }
     ?>
-</body>
+    </body>
+</html>
