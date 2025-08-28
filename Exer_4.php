@@ -7,14 +7,14 @@
     <body>
         <form method="post">
             <label>Digite a base maior</label>
-            <input type="number" step="0.01" name="base_maior" id="base_maior">
+            <input type="number" step="0.01" name="base_maior" id="base_maior"> <br>
 
             <label>Digite a base menor</label>
-            <input type="number" step="0.01" name="base_menor" id="base_menor">
+            <input type="number" step="0.01" name="base_menor" id="base_menor"><br>
 
             <label>Digite a altura do trapézio</label>
-            <input type="number" step="0.01" name="altura" id="altura">
-
+            <input type="number" step="0.01" name="altura" id="altura"><br>
+            
             <button type="submit">Calcular</button>
         </form>
 
