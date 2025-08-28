@@ -7,11 +7,11 @@
         <body>
         <form method="post">
             <label>Digite o valor do seu salário</label>
-            <input type="number" step="0.01" name="salario" id="salario">
+            <input type="number" step="0.01" name="salario" id="salario"> <br>
             
             <label>Digite quantas vendas foram feitas</label>
-            <input type="number" step="1" name="venda" id="venda">
-            <button type="submit">Calcular</button>
+            <input type="number" step="1" name="venda" id="venda"><br>
+            <button type="submit">Calcular</button><br>
         </form>
             
             <?php
